@@ -124,3 +124,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 [protocol-url]: https://modelcontextprotocol.io
 [spec-badge]: https://img.shields.io/badge/spec-spec.modelcontextprotocol.io-blue.svg
 [spec-url]: https://modelcontextprotocol.io/specification/latest
+
+
+## @monetize
+This MCP server is x402-enabled and monetized via [NanoEmpire Trust Manifests](https://www.nanoempireai.com/manifests.html). Run \python x402_monetize.py\ to view the agent card.
